@@ -77,7 +77,7 @@
   <section class="hero">
     <div class="hero-content">
       <h2>LIÊN HỆ</h2>
-      <p><a href="{{ route('home') }}">Trang chủ</a> / Liên hệ</p>
+      <p><a href="{{ route('home') }}"> Trang chủ </a> / Liên hệ</p>
     </div>
   </section>
 

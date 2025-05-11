@@ -45,7 +45,7 @@
         <!-- Icon tìm kiếm ở cuối sidebar -->
         <div class="sidebar-search">
             <a href="{{ route('tintucsearch') }}">
-                <i class="fa fa-search"></i> <!-- Icon tìm kiếm -->
+                <i class="fa fa-search"></i>
             </a>
         </div>
     </div>

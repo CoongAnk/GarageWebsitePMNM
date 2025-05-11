@@ -122,7 +122,7 @@
             <p>- Đặt lịch ngay để được hưởng ưu đãi giảm giá lên tới 10%</p>
             <p>- Gọi ngay số hotline và để lại SĐT để nhận tư vấn miễn phí</p>
             <p>------------------------------</p>
-            <p><span class="phone-icon">📞</span> Hotline: <strong>0962 677726</strong></p>
+            <p><span class="phone-icon">📞</span> Hotline: <strong> 0962 677726 </strong></p>
             <p>- Địa chỉ: 1075 Giải Phóng, Giáp Bát, Hoàng Mai, Hà Nội.</p>
             <p>TRUNG TÂM SỬA CHỮA Ô TÔ AHK - DỊCH VỤ CHUYÊN NGHIỆP - PHỤC VỤ TẬN TÌNH</p>
         </div>
